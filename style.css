@@ -1,5 +1,5 @@
 :root{ --ink:#1c1c1c; --muted:#6b6b66; --hair:#e3e0d8; --paper:#fbf9f4; --accent:#8a5a2b; --card:#ffffff; }
-  @media (prefers-color-scheme: dark){ :root{ --ink:#ecebe6; --muted:#a4a29b; --hair:#33322f; --paper:#141413; --accent:#d3a06a; --card:#1d1d1b; } }
+
   *{ box-sizing:border-box; }
   html{ -webkit-text-size-adjust:100%; }
   body{ margin:0; background:var(--paper); color:var(--ink); font:16px/1.5 -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
